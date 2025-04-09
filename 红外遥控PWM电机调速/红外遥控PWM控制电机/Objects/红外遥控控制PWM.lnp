@@ -1,0 +1,7 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj",
+".\Objects\hw.obj",
+".\Objects\LCD1602.obj",
+".\Objects\Delay.obj" 
+TO ".\Objects\红外遥控控制PWM" 
+PRINT(".\Listings\红外遥控控制PWM.m51") RAMSIZE(256) 
